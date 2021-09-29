@@ -13,3 +13,6 @@ git config --global --edit
 10)git add .
 11)git checkout <commit hash code/branch>
 12)git master
+13)git branch
+14)git branch <branch name>:-git branch dev
+15)git checkout -b anuj/multiply

@@ -17,3 +17,5 @@ git config --global --edit
 14)git branch <branch name>:-git branch dev
 15)git checkout -b anuj/multiply
 16)git merge cool(into dev)
+17)git remote -v
+18)git push -u origin master

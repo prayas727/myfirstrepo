@@ -19,3 +19,4 @@ git config --global --edit
 16)git merge cool(into dev)
 17)git remote -v
 18)git push -u origin master
+19)git clone link

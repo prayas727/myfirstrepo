@@ -1,0 +1,15 @@
+1) git config --global user.name "your name here"
+git config --global user.name "prayas"
+2) git config --global user.email "prayaspikalmunde@gmail.com"
+3)git config --global user.name
+4)git config --global user.email
+To edit the name and email
+git config --global --edit
+5)git init
+6)git status
+7)git add file-to track
+8)git commit -m "first commit"
+9)git log
+10)git add .
+11)git checkout <commit hash code/branch>
+12)git master

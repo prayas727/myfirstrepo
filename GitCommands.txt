@@ -16,3 +16,4 @@ git config --global --edit
 13)git branch
 14)git branch <branch name>:-git branch dev
 15)git checkout -b anuj/multiply
+16)git merge cool(into dev)
